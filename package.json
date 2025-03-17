@@ -2,7 +2,7 @@
   "name": "@purple_kot/chartjs-plugin-annotation",
   "homepage": "https://www.chartjs.org/chartjs-plugin-annotation/index",
   "description": "Annotations for Chart.js",
-  "version": "3.1.2",
+  "version": "3.1.3",
   "author": "Evert Timberg <evert.timberg@gmail.com>",
   "license": "MIT",
   "type": "module",
@@ -23,7 +23,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chartjs/chartjs-plugin-annotation.git"
+    "url": "https://github.com/purple0CaT/chartjs-plugin-annotation.git"
   },
   "files": [
     "dist/*",
