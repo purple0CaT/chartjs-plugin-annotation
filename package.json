@@ -2,7 +2,7 @@
   "name": "@purple_kot/chartjs-plugin-annotation",
   "homepage": "https://www.chartjs.org/chartjs-plugin-annotation/index",
   "description": "Annotations for Chart.js",
-  "version": "3.1.1",
+  "version": "3.1.2",
   "author": "Evert Timberg <evert.timberg@gmail.com>",
   "license": "MIT",
   "type": "module",
