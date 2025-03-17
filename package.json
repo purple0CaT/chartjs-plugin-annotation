@@ -2,7 +2,7 @@
   "name": "@purple_kot/chartjs-plugin-annotation",
   "homepage": "https://www.chartjs.org/chartjs-plugin-annotation/index",
   "description": "Annotations for Chart.js",
-  "version": "3.1.3",
+  "version": "3.1.5",
   "author": "Evert Timberg <evert.timberg@gmail.com>",
   "license": "MIT",
   "type": "module",
@@ -85,10 +85,12 @@
     "vuepress-theme-chartjs": "^0.2.0"
   },
   "peerDependencies": {
-    "chart.js": ">=4.0.0",
-    "loader-utils": ">=2.0.0",
-    "ws":">=8.7.1",
+    "chart.js": ">=4.0.0"
+  },
+  "resolutions": {
+    "loader-utils": ">=1.4.1",
+    "ws": ">=8.7.1",
     "braces": ">=3.0.3",
-    "ip":">=2.0.1"
+    "ip": ">=2.0.1"
   }
 }
